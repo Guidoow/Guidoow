@@ -1,6 +1,6 @@
 # About Me:
 
-🌱 Currently studying software development and engineering. Very interested in cybersecurity, networks, operative systems and low level programming, but actually most focused on trying to live up to the title of Fullstack Developer.
+🌱 Currently studying software development and engineering. Very interested in cybersecurity, networks, operative systems and low level programming, but actually most focused on trying to live up to the title of Backend Developer.
 
 # 💻 Tech Stack:
 
